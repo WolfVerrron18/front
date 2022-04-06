@@ -332,6 +332,6 @@ body.touch .dropdown-button {
 
 @media screen and (max-width: 522px) {
     .header__top-line__menu {
-        width: 100vw;
+        max-width: 320px;
     }
 }
